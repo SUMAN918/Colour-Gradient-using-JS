@@ -1,0 +1,13 @@
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(57, 9, 36);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.copyCode{
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
